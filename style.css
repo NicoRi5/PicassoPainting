@@ -1,0 +1,22 @@
+
+body {
+  width: 80%;
+  margin: 0 auto !important;
+}
+
+.flexParent {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.myForm {
+  margin-top: 10vh
+
+}
+
+.divFlex {
+  height: 100px;
+  width: 100px;
+}
